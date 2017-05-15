@@ -1,0 +1,16 @@
+PODS:
+  - SJIPAPresenter (0.1.0)
+
+DEPENDENCIES:
+  - SJIPAPresenter (from `../`)
+
+EXTERNAL SOURCES:
+  SJIPAPresenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SJIPAPresenter: d2b2c47b8578236f73cd1c62a88e97da6a436cc0
+
+PODFILE CHECKSUM: 8c9e1e32220fd3bcceb6f724bbc9ed0ec02d2696
+
+COCOAPODS: 1.2.0

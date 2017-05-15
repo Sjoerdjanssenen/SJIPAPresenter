@@ -1,0 +1,6 @@
+framework module Pods_SJIPAPresenter_Example {
+  umbrella header "Pods-SJIPAPresenter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

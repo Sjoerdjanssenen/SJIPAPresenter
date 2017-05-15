@@ -1,0 +1,6 @@
+framework module SJIPAPresenter {
+  umbrella header "SJIPAPresenter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SJIPAPresenter_Tests {
+  umbrella header "Pods-SJIPAPresenter_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
