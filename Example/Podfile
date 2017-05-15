@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SJIPAPresenter_Example' do
+  pod 'SJIPAPresenter', :path => '../'
+
+  target 'SJIPAPresenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
