@@ -30,7 +30,7 @@
 
 @property (nonatomic, strong) NSArray *ipas;
 @property (nonatomic) id delegate;
-@property (nonatomic, strong) UIColor *trackTintColor, *trackColor;
+@property (nonatomic, strong) UIColor *trackTintColor, *trackColor, *backgroundColor;
 
 - (instancetype)initWithFrame:(CGRect)frame;
 - (IPA *)value;

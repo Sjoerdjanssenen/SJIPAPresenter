@@ -28,6 +28,7 @@
 @synthesize current = _current;
 @synthesize trackTintColor = _trackTintColor;
 @synthesize trackColor = _trackColor;
+@synthesize backgroundColor = _backgroundColor;
 
 - (instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
@@ -142,6 +143,16 @@
 
 - (UIColor *)trackColor {
     return _trackColor;
+}
+
+- (void)setBackgroundColor:(UIColor *)backgroundColor {
+    _backgroundColor = backgroundColor;
+    self.backgroundColor = backgroundColor;
+    self.features.backgroundColor = backgroundColor;
+}
+
+- (UIColor *)backgroundColor {
+    return _backgroundColor;
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
