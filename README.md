@@ -1,3 +1,5 @@
+![An example of SJIPAPresenter](Example.png)
+
 # SJIPAPresenter
 
 [![CI Status](http://img.shields.io/travis/sjoerdjanssenen/SJIPAPresenter.svg?style=flat)](https://travis-ci.org/sjoerdjanssenen/SJIPAPresenter)
