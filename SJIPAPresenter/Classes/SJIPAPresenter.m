@@ -49,6 +49,15 @@
     return self;
 }
 
+- (void)setFrame:(CGRect)frame {
+    [super setFrame:frame];
+    self.slider.frame = CGRectMake(16, self.frame.size.height-50, self.frame.size.width-32, 30);
+    self.features.frame = CGRectMake(0, 0, self.frame.size.width, self.frame.size.height-50);
+    [self.features reloadData];
+    [self addLabels];
+}
+
+
 - (void)valueChanged:(UISlider *)sender {
     NSUInteger index = (NSUInteger)(self.slider.value + 0.5);
     [self.slider setValue:index animated:NO];
