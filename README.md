@@ -25,7 +25,7 @@ pod "SJIPAPresenter"
 
 ## Author
 
-sjoerdjanssenen, sjoerd.janssen@stimuliz.nl
+Sjoerd Janssen
 
 ## License
 
