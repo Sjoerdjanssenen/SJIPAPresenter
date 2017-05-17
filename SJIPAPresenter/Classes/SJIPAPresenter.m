@@ -147,7 +147,6 @@
 
 - (void)setBackgroundColor:(UIColor *)backgroundColor {
     _backgroundColor = backgroundColor;
-    self.backgroundColor = backgroundColor;
     self.features.backgroundColor = backgroundColor;
 }
 
