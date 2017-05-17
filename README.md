@@ -6,6 +6,7 @@
 [![Version](https://img.shields.io/cocoapods/v/SJIPAPresenter.svg?style=flat)](http://cocoapods.org/pods/SJIPAPresenter)
 [![License](https://img.shields.io/cocoapods/l/SJIPAPresenter.svg?style=flat)](http://cocoapods.org/pods/SJIPAPresenter)
 [![Platform](https://img.shields.io/cocoapods/p/SJIPAPresenter.svg?style=flat)](http://cocoapods.org/pods/SJIPAPresenter)
+[![CocoaPods](https://img.shields.io/cocoapods/dt/SJIPAPresenter.svg)](http://cocoapods.org/pods/SJIPAPresenter)
 
 ## Example
 
